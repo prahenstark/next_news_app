@@ -1,4 +1,4 @@
-// File: D:\Projects\Nextjs Tut\next_news_app_2\app\(marketing)\page.js
+// File: D:\Projects\Nextjs Tut\next_news_app\app\(marketing)\page.js
 import * as entry from '../../../../app/(marketing)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
